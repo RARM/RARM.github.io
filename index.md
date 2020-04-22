@@ -1,9 +1,9 @@
 # RARM GitHub Page
-Welcome, here you can learn more about my open source projects. Here you can find:
+Welcome, here you can learn more about my open source projects. Below you can find:
 
-1. [Open Source](#open-source): Open source projects that I own and in which I have participated. If you are interested, you can contribute to these.
+1. [Open Source Projects](#open-source): Open source projects that I own and in which I have participated. If you are interested, you can contribute to these.
 
-1. [Portfolio](#portfolio): These repositories are mostly expository, to show my work. Like a portfolio!
+1. [Portfolio Projects](#portfolio): These repositories are mostly expository, to show my work. Like a portfolio!
 
 -----------
 ### Open Source
